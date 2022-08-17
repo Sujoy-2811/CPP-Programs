@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "*.jsx": "javascriptreact",
+        "hello.C": "cpp",
+        "sum.C": "cpp",
+        "008_even_odd.C": "cpp",
+        "006_greatest_number_in_three.C": "cpp",
+        "002_temperature_F_to_C.C": "cpp",
+        "000_hello_world.C": "cpp",
+        "007_grade_of_student.C": "cpp",
+        "010_count_even.C": "cpp",
+        "014_manipulateBits.C": "cpp"
+    }
+}
