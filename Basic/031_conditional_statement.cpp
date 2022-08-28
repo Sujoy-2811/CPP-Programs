@@ -5,7 +5,7 @@ int main()
     int age;
     cout << "Enter your age: " << endl;
     cin >> age;
-    if (age >= 12 && age <= 25)
+    if (age >= 10 && age <= 25)
     {
         cout << "Young" << endl;
     }
@@ -13,7 +13,7 @@ int main()
     {
         cout << "Not Young" << endl;
     }
-    if (age < 12 || age > 25)
+    if (age < 10 || age > 25)
     {
         cout << "Eligible for the offer" << endl;
     }
