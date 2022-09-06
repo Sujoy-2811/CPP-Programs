@@ -7,7 +7,7 @@ using namespace std;
 #endif
 int main()
 {
-    cout << PI;
-    cout << max(10, 12) << endl;
+    cout << PI << endl;
+    cout << max(14, 12) << endl;
     cout << msg(hello) << endl;
 }
