@@ -8,9 +8,9 @@ class interchange
 public:
     void getdata()
     {
-        cout << "Enter the value of a :";
+        cout << "Enter the value of a :" << endl;
         cin >> a;
-        cout << "Enter the value of b :";
+        cout << "Enter the value of b :" << endl;
         cin >> b;
     }
     void swap_fun()
