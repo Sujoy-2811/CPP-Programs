@@ -1,3 +1,4 @@
+// find max value
 #include <iostream>
 using namespace std;
 int maxim(int a, int b, int c)
