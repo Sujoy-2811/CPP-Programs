@@ -1,3 +1,5 @@
+// Statics Variable
+
 #include <iostream>
 
 using namespace std;
