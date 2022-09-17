@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
     int A[2][3] = {5, 5, 5, 5, 5, 5};
-    int B[2][3] = {1, 1, 1, 1, 1, 1};
+    int B[2][3] = {2, 2, 2, 2, 2, 2};
     int C[2][3];
     for (int i = 0; i < 2; i++)
     {
