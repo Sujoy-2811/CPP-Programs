@@ -1,3 +1,5 @@
+// It will show error for inaccessible variables
+
 #include <iostream>
 
 using namespace std;
