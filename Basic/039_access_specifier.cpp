@@ -1,4 +1,4 @@
-// It will show error for inaccessible variables
+// It will show error for inaccessible variables as a result
 
 #include <iostream>
 
